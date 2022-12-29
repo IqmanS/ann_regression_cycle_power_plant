@@ -1,1 +1,0 @@
-# ann_regression_cycle_power_plant
